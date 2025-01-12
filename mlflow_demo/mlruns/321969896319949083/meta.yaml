@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/USER/Documents/GitHub/mlops/mlflow_demo/mlruns/321969896319949083
+creation_time: 1736683555967
+experiment_id: '321969896319949083'
+last_update_time: 1736683555967
+lifecycle_stage: active
+name: My First Experiment With MLFLOW

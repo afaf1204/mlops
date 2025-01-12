@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/569532407459835564/df8680baba454b5da411d26c879fe000/artifacts
+end_time: 1736686100344
+entry_point_name: ''
+experiment_id: '569532407459835564'
+lifecycle_stage: active
+run_id: df8680baba454b5da411d26c879fe000
+run_name: auspicious-slug-340
+run_uuid: df8680baba454b5da411d26c879fe000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736686100315
+status: 4
+tags: []
+user_id: USER

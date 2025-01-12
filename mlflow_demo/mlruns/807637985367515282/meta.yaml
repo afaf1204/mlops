@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/USER/Documents/GitHub/mlops/mlflow_demo/mlruns/807637985367515282
+creation_time: 1736686078328
+experiment_id: '807637985367515282'
+last_update_time: 1736686078328
+lifecycle_stage: active
+name: Anomaly Detection V2

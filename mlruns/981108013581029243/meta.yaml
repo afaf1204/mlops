@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/981108013581029243
+creation_time: 1736683568971
+experiment_id: '981108013581029243'
+last_update_time: 1736683568971
+lifecycle_stage: active
+name: My First Experiment With MLFLOW
